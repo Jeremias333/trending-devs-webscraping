@@ -12,4 +12,4 @@ O objetivo principal é fazer com que sejam mostrados o top 10 de trending devel
 
 
 
-> O objetivo final é aplicar teorias aprendidas.
+> O objetivo final é aplicar teorias aprendidas a respeito de raspagem de dados, orientação a objeto e todos supra citados no tasklist acima.

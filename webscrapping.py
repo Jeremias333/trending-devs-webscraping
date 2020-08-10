@@ -17,6 +17,7 @@ user_1st = list_devs[0].find('h1', class_="h3 lh-condensed").text
 print(user_1st.strip())
 
 #Capturando o nome de usuário do usuário
-username_1st = list_devs[0].find('h1', class_="h3 lh-condensed").text
-print("https://github.com/"+username_1st.strip())
+#username_1st = list_devs[0].find('h1', class_="h3 lh-condensed").get('href').text
+#print(username_1st)
 
+print(list_devs[0].find('a',class_="css-truncate css-truncate-target").get('href').split('/')[1])

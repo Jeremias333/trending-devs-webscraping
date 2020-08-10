@@ -3,10 +3,12 @@ O objetivo principal é fazer com que sejam mostrados o top 10 de trending devel
 
 ## Features:
 - [ ] Documentação.
-- [ ] Orientação a objetos.
-- [ ] Webscraping.
-- [ ] Exibir resultados.
-- [ ] Commits semânticos.
+	- [ ] O que instalar.
+	- [ ] Como utilizar.
+- [x] Orientação a objetos.
+- [x] Webscraping.
+- [x] Exibir resultados.
+- [x] Commits semânticos.
 
 
 

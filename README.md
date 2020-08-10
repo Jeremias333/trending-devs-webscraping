@@ -10,4 +10,4 @@ O objetivo principal é fazer com que sejam mostrados o top 10 de trending devel
 
 
 
-> No fim das contas o objetivo final é aplicar teorias aprendidas.
+> O objetivo final é aplicar teorias aprendidas.

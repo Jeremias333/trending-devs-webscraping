@@ -10,6 +10,10 @@ O objetivo principal é fazer com que sejam mostrados o top 10 de trending devel
 - [x] Exibir resultados.
 - [x] Commits semânticos.
 
+# INSTALAÇÃO:
+
+- Para utilizar precisamos baixar algumas coisas.
+	- 
 
 
 > O objetivo final é aplicar teorias aprendidas a respeito de raspagem de dados, orientação a objeto e todos supra citados no tasklist acima.

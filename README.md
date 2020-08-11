@@ -19,7 +19,8 @@ O objetivo principal é fazer com que sejam mostrados o top 10 de trending devel
 	$ pip install beautifulsoup4
 	```
 	```terminal 
-	$ pip install requests	```
+	$ pip install requests	
+	```
 - O Git precisa está instalado na máquina: https://git-scm.com/downloads
 	```termina
 	$ git clone linkdesterepositorio
